@@ -10,4 +10,4 @@ The **XPS plots** were generated using a commercial software. The folder `fig_3_
 
 ## License
 
-This project is licensed under the **GNU General Public License (GPL)**, which allows you to freely use, modify, and distribute the code, provided that any derivative works are also licensed under GPL.
+This project is licensed under the **GNU General Public License (GPL)**, which allows you to freely use, modify and distribute the code, provided that any derivative works are also licensed under GPL.
