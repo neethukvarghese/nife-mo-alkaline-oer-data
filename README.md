@@ -1,4 +1,4 @@
-# Raw Data and Plot Scripts for the Manuscript
+# Data and Plot Scripts for the Manuscript
 
 This repository contains the raw data and plotting scripts for the figures in the following manuscript:
 
